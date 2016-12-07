@@ -1,0 +1,6 @@
+12/7/2016 
+
+After matchmaking, we need to minimize the launcher to the taskbar and then open game.exe to the remote server.
+
+    string[] arguments = Environment.GetCommandLineArgs();  
+    string firstArguemt = arguments[1];
